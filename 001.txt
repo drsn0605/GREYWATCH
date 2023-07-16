@@ -1,0 +1,12 @@
+1. Create Index.html  
+2. Hello World
+3. Bootsrap components
+
+1 - Navbar 
+(open in live server)
+2 - Breadcrumb
+3 - Alert ( red - danger, blue - primary alert, green - success, yellow - warning)  
+4 - badge, pillbadge, link badge
+5 - Buttons
+6 - Button group
+7 - Card
